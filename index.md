@@ -6,7 +6,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [google scholar](https://scholar.google.com/citations?user=YbyzuEEAAAAJ&hl=en)
 [linkedin](https://www.linkedin.com/in/aishwaryamdm/)
-![mail](assets/img/envelope-regular.svg)(mailto:ao21resch11002@iith.ac.in)
+[![mail](assets/img/envelope-regular.svg)](mailto:ao21resch11002@iith.ac.in)
+<img src="assets/img/envelope-regular.svg" width="20" height="10">
 
 
 # Header 1
