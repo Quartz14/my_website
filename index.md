@@ -21,13 +21,13 @@ My research intrests are in developing empathetic emotion support systems contro
 
 * * *
 ### Updates
-* Paper Accepted: `Probing the Inherent Ability of Large Language Models for Generating Empathetic Responses` at IEEE Swiss Conference on Data Science 2025
-* Grateful to recevive travel grants to attended PAKDD 2024 
-* Paper Accepted:`DAC: Quantized Optimal Transport Reward-based Reinforcement Learning Approach to Detoxify Query Auto-Completion` at SIGIR 2024
-* Paper Accepted: `DQAC: Detoxifying Query Auto-completion with Adapters` at PAKDD 2024
-* Visited Swinburne University for roughly a year as part of the joint program - 2024
-* Grateful to be part of the Microsoft Academic Partnership Grant - 2022-23
-* Started my PhD at Indian Institute of Technology Hyderabad - 2021
+* 2025: Paper Accepted: `Probing the Inherent Ability of Large Language Models for Generating Empathetic Responses` at IEEE Swiss Conference on Data Science, **SDS**
+* 2024: Grateful to recevive travel grants to attended PAKDD
+* 2024: Paper Accepted:`DAC: Quantized Optimal Transport Reward-based Reinforcement Learning Approach to Detoxify Query Auto-Completion` at **SIGIR**
+* 2024: Paper Accepted: `DQAC: Detoxifying Query Auto-completion with Adapters` at **PAKDD**
+* 2024: Visited Swinburne University for roughly a year as part of the joint program
+* 2023: Grateful to be part of the Microsoft Academic Partnership Grant
+* 2021: Started my PhD at Indian Institute of Technology Hyderabad
 
 * * * *
 ### Publications
