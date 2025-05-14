@@ -6,7 +6,7 @@ layout: default
 
 > I am a 4th year PhD student currently at Indian Institute of Technology Hyderabad. I work in Natural Language Processing with focus on methods for controllable text generation.
 
-My research intrests are in developing empathetic emotion support systems controlling for desirable attributes like empathy. Currently I am intrested in using interpretability techniques like Representational Engineering to control the inner representations in models to make them generated appropriatly controlled text. My PhD supervisor at IITH is [Dr. Maunendra Sankar Deskar](https://people.iith.ac.in/maunendra/index.html). When at Swinburne University I was supervised by [Dr. Caslon Chua](https://experts.swinburne.edu.au/1025-caslon-chua).  
+My research intrests are in developing empathetic emotion support systems controlling for desirable attributes like empathy. Currently I am intrested in using interpretability techniques like Representational Engineering to control the inner representations in models to make them generated appropriatly controlled text. My PhD supervisor at IITH is [Dr. Maunendra Sankar Deskar](https://people.iith.ac.in/maunendra/index.html). My Co-guide from Swinburne University is [Dr. Caslon Chua](https://experts.swinburne.edu.au/1025-caslon-chua).  
 
 * * *
 ### Updates
