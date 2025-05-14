@@ -22,7 +22,7 @@ My research intrests are in developing empathetic emotion support systems contro
 * * *
 ### Updates
 * 2025: Paper Accepted: `Probing the Inherent Ability of Large Language Models for Generating Empathetic Responses` at IEEE Swiss Conference on Data Science, **SDS**.
-* 2024: Grateful to recevive travel grants to attended PAKDD.
+* 2024: Grateful to recevive travel grants from [ACM/IARCS](https://www.iarcs.org.in/) and PAKDD conference to attend PAKDD.
 * 2024: Paper Accepted:`DAC: Quantized Optimal Transport Reward-based Reinforcement Learning Approach to Detoxify Query Auto-Completion` at **SIGIR**.
 * 2024: Paper Accepted: `DQAC: Detoxifying Query Auto-completion with Adapters` at **PAKDD**.
 * 2024: Visited Swinburne University, Melbourne for roughly a year as part of the joint program.
