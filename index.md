@@ -10,6 +10,7 @@ My research intrests are in developing empathetic emotion support systems contro
 
 * * *
 ### Updates
+* 2026: Paper Accepted: `A Unified View on Emotion Representation in Large Language Models` at EACL Main Conference **EACL**!
 * 2025: Paper Accepted: `Probing the Inherent Ability of Large Language Models for Generating Empathetic Responses` at IEEE Swiss Conference on Data Science, **SDS**.
 * 2024: Grateful to recevive travel grants from [ACM/IARCS](https://www.iarcs.org.in/) and PAKDD conference to attend PAKDD.
 * 2024: Paper Accepted:`DAC: Quantized Optimal Transport Reward-based Reinforcement Learning Approach to Detoxify Query Auto-Completion` at **SIGIR**.
