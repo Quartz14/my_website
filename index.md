@@ -4,9 +4,9 @@ layout: default
 
 
 
-> I am a 5th year PhD student currently at Indian Institute of Technology Hyderabad. I work in Natural Language Processing with focus on methods for controllable text generation.
+> I am a 5th-year PhD student currently at the Indian Institute of Technology Hyderabad. I work in Natural Language Processing with a focus on Interpretability and methods for controllable text generation.
 
-My research interests are in using interpretability techniques like Representational Engineering (RE) and Mechanistic Interpretability to **understand** the inner representations in models and gain insights to **control** them to make them generate appropriately controlled text. 
+My research interests lie in utilizing interpretability techniques, such as Representational Engineering (RE) and Mechanistic Interpretability, to **understand** the inner representations in models and gain insights to **control** them, thereby making them generate appropriately controlled text. 
 My work includes developing methods to control toxicity in Web search Auto-Completions and understanding how large language models (LLMs) represent emotions and demonstrate empathy.
 My PhD supervisor at IITH is [Dr. Maunendra Sankar Deskar](https://people.iith.ac.in/maunendra/index.html). My Co-guide from Swinburne University is [Dr. Caslon Chua](https://experts.swinburne.edu.au/1025-caslon-chua).  
 
@@ -14,7 +14,7 @@ My PhD supervisor at IITH is [Dr. Maunendra Sankar Deskar](https://people.iith.a
 ### Updates
 * 2026: Paper Accepted: `A Unified View on Emotion Representation in Large Language Models` at EACL Main Conference **EACL**!
 * 2025: Paper Accepted: `Probing the Inherent Ability of Large Language Models for Generating Empathetic Responses` at IEEE Swiss Conference on Data Science, **SDS**.
-* 2024: Grateful to recevive travel grants from [ACM/IARCS](https://www.iarcs.org.in/) and PAKDD conference to attend PAKDD.
+* 2024: Grateful to receive travel grants from [ACM/IARCS](https://www.iarcs.org.in/) and PAKDD conference to attend PAKDD.
 * 2024: Paper Accepted:`DAC: Quantized Optimal Transport Reward-based Reinforcement Learning Approach to Detoxify Query Auto-Completion` at **SIGIR**.
 * 2024: Paper Accepted: `DQAC: Detoxifying Query Auto-completion with Adapters` at **PAKDD**.
 * 2024: Visited Swinburne University, Melbourne for roughly a year as part of the joint program.
