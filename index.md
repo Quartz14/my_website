@@ -23,7 +23,7 @@ My PhD supervisor at IITH is [Dr. Maunendra Sankar Deskar](https://people.iith.a
 
 * * * *
 ### Publications
-1. A Unified View on Emotion Representation in Large Language Models [Recently accepted, yet to be published] author list: **Maheswaran, A.**, Desarkar, M.S. In: 19th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2026**)
+1. A Unified View on Emotion Representation in Large Language Models [*Paper link*](https://aclanthology.org/2026.eacl-long.165/) author list: **Maheswaran, A.**, Desarkar, M.S. In: 19th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2026**)
 2. Probing the Inherent Ability of Large Language Models for Generating Empathetic Responses [*Paper link*]([https://dl.acm.org/doi/pdf/10.1145/3626772.3657779](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11081499)), author list: **Maheswaran, A.**, Chua, Caslon, Desarkar, M.S. In: 12th IEEE Swiss Conference on Data Science. **SDS 2025**
 3. DAC: Quantized Optimal Transport Reward-based Reinforcement Learning Approach to Detoxify Query Auto-Completion [*Paper link*](https://dl.acm.org/doi/pdf/10.1145/3626772.3657779) Author list: **Maheswaran, A.**, Maurya, K.K., Gupta, M., Desarkar, M.S, in **SIGIR 2024**
 4. DQAC: Detoxifying Query Auto-Completion with Adapters Publication, [*Paper link*](https://link.springer.com/chapter/10.1007/978-981-97-2266-2_9), Author list: **Maheswaran, A.**, Maurya, K.K. Gupta, M., Desarkar, M.S. In: Advances in Knowledge Discovery and Data Mining.PAKDD 2024
