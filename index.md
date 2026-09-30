@@ -7,8 +7,8 @@ layout: default
 > I am a 5th-year PhD student currently at the Indian Institute of Technology Hyderabad. I work in Natural Language Processing with a focus on Interpretability and methods for controllable text generation.
 
 My research interests lie in utilizing interpretability techniques, such as Representational Engineering (RE) and Mechanistic Interpretability, to **understand** the inner representations in models and gain insights to **control** them, thereby making them generate appropriately controlled text. 
-My work includes developing methods to control toxicity in Web search Auto-Completions and understanding how large language models (LLMs) represent emotions and demonstrate empathy.
-My PhD supervisor at IITH is [Dr. Maunendra Sankar Deskar](https://people.iith.ac.in/maunendra/index.html). My Co-guide from Swinburne University is [Dr. Caslon Chua](https://experts.swinburne.edu.au/1025-caslon-chua).  
+My work includes developing methods to control toxicity in Web search Auto-Completions and understanding how large language models (LLMs) represent emotions and demonstrate empathy. My recent works focusses on model behaviours. Example: How model behaviour changes when it has completed the task set by the user's prompt.
+My PhD supervisor at IITH is [Dr. Maunendra Sankar Deskar](https://people.iith.ac.in/maunendra/index.html). My Co-supervisor from Swinburne University is [Dr. Caslon Chua](https://experts.swinburne.edu.au/1025-caslon-chua).  
 
 * * *
 ### Updates
