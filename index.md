@@ -12,6 +12,8 @@ My PhD supervisor at IITH is [Dr. Maunendra Sankar Deskar](https://people.iith.a
 
 * * *
 ### Updates
+* 2026: Paper Accepted: `Understanding & Isolating the Assistant State in Instruction-Tuned Models` at EMNLP Main Conference **EMNLP**!
+* 2026: Paper Accepted: `Beyond EOS: Revealing the Internal Monologue of Language Models` at AACL Findings Conference **AACL**!
 * 2026: Paper Accepted: `A Unified View on Emotion Representation in Large Language Models` at EACL Main Conference **EACL**!
 * 2025: Paper Accepted: `Probing the Inherent Ability of Large Language Models for Generating Empathetic Responses` at IEEE Swiss Conference on Data Science, **SDS**.
 * 2024: Grateful to receive travel grants from [ACM/IARCS](https://www.iarcs.org.in/) and PAKDD conference to attend PAKDD.
